@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37762'
     url: http://www.gutenberg.org/2009/agents/37762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35577#Caucasian-Legends
 gutenberg_issued: '2011-03-14'
 gutenberg_type: Text
 identifiers:
