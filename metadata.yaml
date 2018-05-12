@@ -1,0 +1,37 @@
+_repo: Caucasian-Legends_35577
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Veselitskii-Bozhidarovich, Sergiei
+    alias: Wesselitsky-Bojidarovitch, Sergei de
+    birthdate: 1882
+    gutenberg_agent_id: '37763'
+    url: http://www.gutenberg.org/2009/agents/37763
+covers:
+- cover_type: archival
+  image_path: 35577-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gul'bat, Abraam Abraamovich
+    alias: Goulbat, A.
+    gutenberg_agent_id: '37762'
+    url: http://www.gutenberg.org/2009/agents/37762
+description: ''
+gutenberg_issued: '2011-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35577'
+  lccn: 05026759
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Legends -- Caucasus'
+tableOfContents: The rain -- Bakarr I., Tsar of Georgia -- The incombustible tulip
+  -- Saint Nina -- The diamond -- Happiness is within us -- The tribute of roses --
+  The lot of the holy Virgin -- The comet -- The jewel necklace -- St. Mourvanoss
+  -- Zesva -- The Tale of Mikhian
+title: Caucasian Legends
+url: http://www.gutenberg.org/ebooks/35577
